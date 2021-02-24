@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "Obp-2"
+  description: "Open Bank Project"
+  annotations:
+    github.com/project-slug: Paridhi-Mohindra/obp-2
+    backstage.io/techdocs-ref: url:https://github.com/Paridhi-Mohindra/obp-2
+spec:
+  type: service
+  lifecycle: experimental
+  owner: "Paridhi"
